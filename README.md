@@ -40,5 +40,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 
 react bits: https://www.reactbits.dev/animations/glare-hover
+
 typing anamation: https://react-type-animation.netlify.app/
 
