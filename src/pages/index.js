@@ -1,6 +1,7 @@
 import { TypeAnimation } from 'react-type-animation';
 import ScrollVelocity from '../blocks/TextAnimations/ScrollVelocity/ScrollVelocity';
 import Header from '../components/Header';
+import Spacer from '../components/spacer';
 
 export default function Home() {
   return (
@@ -45,6 +46,11 @@ export default function Home() {
         texts={['Self Learning - Creative Problem Solving - MATLAB - Python - JavaScript - Analytical Skills - Communication', 'Self Learning - Creative Problem Solving - MATLAB - Python - JavaScript - Analytical Skills - Communication']} 
         velocity={10} 
       />
+      <br></br>
+      <Spacer />
+
+
+
 
       <div className="h-200">
 
